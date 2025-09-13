@@ -11,12 +11,4 @@ Time-Series Sales Trends: A line chart tracks monthly sales performance from 199
 
 Key Performance Indicators (KPIs): Instant access to vital metrics like total sales, total quantity sold, top-performing year, and the top employee and company.
 
-Tools Used
-Microsoft Power BI: The dashboard was designed and built using Power BI, leveraging its capabilities for data modeling, visualization, and creating interactive reports.
 
-[Add data source here]: Specify the data source, e.g., "The data was sourced from a CSV file" or "The dataset was extracted from a SQL database."
-
-How to Use
-Interactive Filters: The dashboard includes slicers for filtering data by Region, Employee ID, and Year. This allows users to drill down into specific data points.
-
-Data-Driven Decisions: The visualizations help stakeholders make data-driven decisions, such as identifying high-performing sales teams, recognizing successful employees, and optimizing sales strategies based on regional performance.
